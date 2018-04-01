@@ -1,0 +1,33 @@
+Id. usuario del trabajo: E2estudiante16
+Id. del trabajo: 57320.atcgrid
+Nombre del trabajo especificado por usuario: pmm-escalabilidad-atcgrid
+Nodo que ejecuta qsub: atcgrid
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+Directorio de trabajo: /home/E2estudiante16/universidad/2/ac/p/s3
+num_threads=2
+num_threads=4

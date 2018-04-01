@@ -1,0 +1,40 @@
+Id. usuario del trabajo: E2estudiante16
+Id. del trabajo: 57138.atcgrid
+Nombre del trabajo especificado por usuario: pmtv-OpenMP
+Nodo que ejecuta qsub: atcgrid
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+Directorio de trabajo: /home/E2estudiante16/universidad/2/ac/p/s3
+static con chunk por defecto
+static con chunk 1
+static con chunk 64
+dynamic con chunk por defecto
+dynamic con chunk 1
+dynamic con chunk 64
+guided con chunk por defecto
+guided con chunk 1
+guided con chunk 64
